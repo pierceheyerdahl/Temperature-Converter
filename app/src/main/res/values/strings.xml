@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="header">Please enter temperature</string>
+    <string name="hint">Fahrenheit</string>
+    <string name="button">Calculate</string>
+    <string name="output_text">Celsius:</string>
+</resources>
